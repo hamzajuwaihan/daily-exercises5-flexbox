@@ -1,0 +1,42 @@
+body {
+    background-color: #ffffb9;
+}
+
+img {
+    width: 75px;
+    border-radius: 50%;
+    padding: 25px;
+
+}
+
+.container {
+
+
+    margin: auto;
+    margin-top: 100px;
+    background-color: white;
+    width: 30%;
+    border-radius: 20%;
+
+}
+
+.row {
+    display: flex;
+    padding-left: 50px;
+
+
+}
+
+.info {
+    padding: 25px 25px 25px 5px;
+
+}
+
+.info h5 {
+    color: gray;
+}
+
+hr {
+    color: grey;
+    width: 80%;
+}

@@ -1,0 +1,105 @@
+.container {
+    display: flex;
+    width: 98%;
+    border: 15px solid #daa521;
+    height: 95vh;
+    flex-wrap: wrap;
+    align-content: flex-start;
+}
+
+#one {
+    height: 33.5%;
+    width: 25%;
+    background-color: #1bbc9b;
+    color: white;
+    font-size: 100px;
+    text-align: center;
+}
+
+#two {
+    height: 33.5%;
+    width: 25%;
+    background-color: #3598db;
+    color: white;
+    font-size: 100px;
+    text-align: center;
+}
+
+h1 {
+    margin-top: 20px;
+}
+
+#three {
+    height: 33.5%;
+    width: 25%;
+    background-color: #9a59b5;
+    color: white;
+    font-size: 100px;
+    text-align: center;
+}
+
+#four {
+    height: 33.5%;
+    width: 25%;
+    background-color: #34495e;
+    color: white;
+    font-size: 100px;
+    text-align: center;
+}
+
+#five {
+    height: 33.5%;
+    width: 25%;
+    background-color: #f1c40f;
+    color: white;
+    font-size: 100px;
+    text-align: center;
+}
+
+#six {
+    height: 33.5%;
+    width: 25%;
+    background-color: #e67f22;
+    color: white;
+    font-size: 100px;
+    text-align: center;
+}
+
+#seven {
+    height: 33.5%;
+    width: 25%;
+    background-color: #e84c3d;
+    color: white;
+    font-size: 100px;
+    text-align: center;
+}
+
+#eight {
+    height: 33.5%;
+    width: 25%;
+    background-color: #bec3c7;
+    color: white;
+    font-size: 100px;
+    text-align: center;
+
+}
+
+#nine {
+    height: 33.5%;
+    width: 25%;
+    background-color: #2dcc70;
+    color: white;
+    font-size: 100px;
+    text-align: center;
+
+}
+
+#ten {
+    height: 33.5%;
+    width: 25%;
+    background-color: #16a086;
+    color: white;
+    font-size: 100px;
+    text-align: center;
+
+}

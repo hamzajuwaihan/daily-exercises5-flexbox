@@ -1,0 +1,23 @@
+.container{
+    text-align: center;
+    display: flex;
+    font-size: xx-large;
+    height: 98vh;
+}
+#first-part{
+    width: 50%;
+    display: flex;
+    background-color: #fea500;
+    color: white;
+    justify-content:center;
+    align-items: center;
+}
+#second-part{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    width: 50%;
+   
+    background-color: #0000fe;
+    color: white;
+}
